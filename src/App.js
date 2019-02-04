@@ -5,6 +5,7 @@ import Papayawhip from './components/papayawhip';
 import Lightseagreen from './components/lightSeaGreen';
 import Darkbluepurple from './components/darkbluepurple';
 import ShadesofVermillion from './components/shadesOfVermillion';
+import Coralred from './components/coralRed';
 
 class App extends Component {
   render() {
@@ -14,6 +15,7 @@ class App extends Component {
         <Lightseagreen />
         <Darkbluepurple />
         <ShadesofVermillion />
+        <Coralred />
       </div>
     );
   }
